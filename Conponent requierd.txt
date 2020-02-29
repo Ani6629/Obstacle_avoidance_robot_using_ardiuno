@@ -1,0 +1,5 @@
+- Arduino Uno R3
+- Ultrasonic Sensor
+- Servo Motor
+- L298N Motor Driver Module
+-  Robot Chassis
